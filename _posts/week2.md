@@ -2,5 +2,4 @@
 layout: post
 title: Week 2
 ---
-
-
+My mentor is away at a conference this week, so no meeting with her, but I still continued the weekly check-in meeting with the rest of the team. I think I have a good hang of where the project is at at this point, but meeting with the team members still helped a lot. I finished learning some core Python concepts and I have started embarking on the Django journey! My goal is to follow tutorials to make a blog web app with core features such as log in, log out, posting, etc. in order to get familiar with Django as well as the backend of web apps. During our last meeting, my mentor explained to me her vision of the larger project that this project will be a part of, which is to design online platforms to encourage playful caring acts, so I also did some literature reviews on the topic.
