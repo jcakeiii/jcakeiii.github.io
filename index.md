@@ -18,7 +18,7 @@ My mentor is Dr. Kate Ringland, an Assistant Professor in the Computational Medi
 
 The project I'm working on is Archive by Army, a community-specific platform for generating and providing alt text for images and gifs for content relevant to the community. This is a community-driven platform in that all the content, alt text, tags, etc. are provided by community members. 
 
-[My Final Report](files/finalreport.pdf)
+[My Final Report](files/JackieLe - DREU Final Report.pdf)
 
 ## My Blog
 
