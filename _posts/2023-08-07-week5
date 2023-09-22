@@ -1,0 +1,5 @@
+---
+layout: post
+title: Week 5
+---
+I finished the Django tutorials! I have a decent understanding of the basics of the framework now, which helps with understanding the codebase a lot. Currently, we are not working on the backend stuff because some team members are trying to figure out the configuration for AWS, where we are going to host the website. It's pretty complicated and quite a lot of work, so hopefully when that's sorted out we can hop back to working on features! We had another web design meeting this week, discussing what everyone has been working on and possibly new ideas.
